@@ -1,4 +1,6 @@
 # CSV_Upload
+## project by - githu.com/kartikcoder8433191288
+## hosted link :- https://csv-upload-25am.onrender.com
 backend test CSV Upload
 
 CSV_Upload is a web application that allows users to upload and parse CSV files. The application is built with Node.js and Express, and it provides a simple and user-friendly interface for managing CSV data.
@@ -59,7 +61,4 @@ CSV_Upload/
 ├── README.md
 
 ```
-## Screenshots
-<img width="960" alt="Screenshot 2023-05-02 014605" src="https://user-images.githubusercontent.com/90390855/235523632-0b70279d-08a4-46dc-aa73-ac6ce6f1c147.png">
 
-<img width="960" alt="Screenshot 2023-05-02 014704" src="https://user-images.githubusercontent.com/90390855/235523713-c6153e16-b915-4e2b-9f98-8d958cda3376.png">
