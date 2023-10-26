@@ -11,7 +11,7 @@ To install CSV_Upload, please follow these steps:
 Clone this repository using the following command:
 ```
 $ git clone 
-```https://github.com/kartikcoder8433191288/csv_upload.git
+```https://github.com/kartikcoder8433191288/CSV_UPLOAD..git
 Install the required dependencies using the following command:
 ```
 $ npm install 
